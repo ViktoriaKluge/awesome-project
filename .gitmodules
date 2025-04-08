@@ -1,0 +1,3 @@
+[submodule "vendor/modulelink"]
+	path = vendor/modulelink
+	url = https://github.com/ViktoriaKluge/awesome-module.git
